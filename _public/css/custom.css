@@ -1,0 +1,15 @@
+#maincontent, #pictures {
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+#maincontent hr.star-light:after, #pictures hr.star-light:after {
+    background: transparent;
+}
+#maincontent h1, #maincontent p, #maincontent hr.star-light,
+#pictures h1, #pictures p, #pictures hr.star-light {
+    text-shadow: 2px 2px 1px rgba(0, 0, 0, 0.61);
+}
+#pictures .img-responsive {
+    display: inline;
+}
+

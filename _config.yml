@@ -1,0 +1,8 @@
+name: swlatinx
+location: .
+longname: 'Startup Weekend Latinxs in Tech'
+layout: bootstrap
+author: techqueria
+description: 'Startup Weekend latinxs in tech is happening the weekend of Sept 29, 2017'
+version: 0.18.0
+dest: docs
