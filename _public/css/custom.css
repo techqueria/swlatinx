@@ -15,3 +15,12 @@
 #contact .content {
     padding: 100px 0;
 }
+img {
+    max-width: 100%;
+}
+.text-bg-white.text-bg-white {
+    background: white;
+    text-shadow: none;
+    padding: 4px;
+}
+
