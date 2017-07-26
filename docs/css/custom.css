@@ -12,4 +12,6 @@
 #pictures .img-responsive {
     display: inline;
 }
-
+#contact .content {
+    padding: 100px 0;
+}
