@@ -1,0 +1,7 @@
+[
+    { "name": "Oakland", "description": "Lorem Ipsum.", "location_name": "Kapor Center", "location_url": "http://www.kaporcenter.org/", "image": "/img/portfolio/oakland.png", "big_image": "/img/portfolio/oakland.png", "url": "#", "url_name": "Eventbrite"},
+    { "name": "Chicago", "description": "Lorem Ipsum.", "location_name": "Chicago Plaza", "location_url": "http://www.kaporcenter.org/", "image": "/img/portfolio/chicago.png", "big_image": "/img/portfolio/chicago.png", "url": "#", "url_name": "Eventbrite"},
+    { "name": "New York City", "description": "Lorem Ipsum.", "location_name": "Chicago Plaza", "location_url": "http://www.kaporcenter.org/", "image": "/img/portfolio/nyc.png", "big_image": "/img/portfolio/nyc.png", "url": "#", "url_name": "Eventbrite"},
+    { "name": "Miami", "description": "Lorem Ipsum.", "location_name": "Chicago Plaza", "location_url": "http://www.kaporcenter.org/", "image": "/img/portfolio/miami.png", "big_image": "/img/portfolio/miami.png", "url": "#", "url_name": "Eventbrite"},
+    { "name": "Los Angeles", "description": "Lorem Ipsum.", "location_name": "Chicago Plaza", "location_url": "http://www.kaporcenter.org/", "image": "/img/portfolio/la.png", "big_image": "/img/portfolio/la.png", "url": "#", "url_name": "Eventbrite"}
+]
