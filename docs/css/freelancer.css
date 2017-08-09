@@ -514,3 +514,6 @@ fieldset[disabled] .btn-success.active {
 div#maincontent {
   outline: none;
 }
+.portfolio-modal .modal-content img {
+  max-height: 52vh;
+}

@@ -1,6 +1,6 @@
 <!-- Portfolio Modals -->
 {{#each data.cities}}
-  <div class="portfolio-modal modal fade" id="{{name}}" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="portfolio-modal modal fade" id="{{#if shortname}}{{shortname}}{{else}}{{name}}{{/if}}" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
             <div class="close-modal" data-dismiss="modal">
                 <div class="lr">
@@ -24,6 +24,11 @@
                                 <li>Date:
                                     <strong><a href="#">Sep 29, 2017</a></strong>
                                 </li>
+				{{#if contact}}
+                                <li>Contact:
+                                    <strong> {{contact}}</strong>
+                                </li>
+				{{/if}}
                                 <li>Location:
                                     <strong><a href="{{location_url}}">{{location_name}}</a></strong>
                                 </li>
