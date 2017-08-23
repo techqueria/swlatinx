@@ -14,29 +14,31 @@
                         <div class="modal-body">
                             <h2><a href="/{{shortname}}">{{name}}</a></h2>
                             <hr class="star-primary">
+                            <div class="row">
+                                <ul class="list-inline item-details">
+                                    <li>Event details and RSVP:
+                                        <strong><a href="{{url}}" target="_blank">{{url_name}}</a>
+                                        </strong>
+                                    </li>
+                                    <li>Date:
+                                        <strong>Sep 29, 2017</strong>
+                                    </li>
+                                    {{#if contact}}
+                                    <li>Contact:
+                                        <strong> {{contact}}</strong>
+                                    </li>
+                                    {{/if}}
+                                    <li>Location:
+                                        <strong><a href="{{location_url}}">{{location_name}}</a></strong>
+                                    </li>
+                                </ul>
+                            </div>
                             <img src="{{image}}" class="img-responsive img-centered" alt="">
                             {{#if description}}
                                 <p>{{description}}</p>
                             {{else}}
                                 <p>Imagine what could happen if we gathered 500 entrepreneurially-minded Latinxs and allies over 54 hours, in 5 different cities, to identify and design technology solutions to problems disproportionately facing the U.S. Latinx community? What if we facilitated mentorship by some of the most talented technologists, business innovators, and prominent investors.</p>
                             {{/if}}
-                            <ul class="list-inline item-details">
-                                <li>Event details and RSVP:
-                                    <strong><a href="{{url}}" target="_blank">{{url_name}}</a>
-                                    </strong>
-                                </li>
-                                <li>Date:
-                                    <strong>Sep 29, 2017</strong>
-                                </li>
-                                {{#if contact}}
-                                <li>Contact:
-                                    <strong> {{contact}}</strong>
-                                </li>
-                                {{/if}}
-                                <li>Location:
-                                    <strong><a href="{{location_url}}">{{location_name}}</a></strong>
-                                </li>
-                            </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>
