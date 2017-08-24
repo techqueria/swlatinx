@@ -29,4 +29,13 @@ section.success, hr.star-light:after, header {
 #portfolio .portfolio-item .portfolio-link .caption {
     background-color: rgba(40, 168, 224, 0.7);
 }
+#maincontent.container {
+    width: 100% !important;
+    background: rgba(204, 204, 204, 0.49);
+}
+#maincontent.container > .row {
+    max-width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
 
