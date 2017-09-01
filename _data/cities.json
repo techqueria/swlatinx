@@ -36,12 +36,12 @@
     "shortname": "miami",
     "name": "Miami",
     "description": "We're making this startup weekend the biggest in history. We’re launching 50 Latinx led ventures... in 54 hours... in 5 cities!!! We’re bringing 500 Latinxs and allies together for 54 hours in Oakland, LA, Chicago, Miami and New York to ideate and design solutions to the problems affecting the Latinx community.",
-    "location_name": "",
-    "location_url": "",
+    "location_name": "Building.co",
+    "location_url": "http://building.co/",
     "image": "/img/portfolio/miami.png",
     "image-lg": "/img/portfolio/miami-1.png",
-    "url": "#",
-    "url_name": "Eventbrite"
+    "url": "http://communities.techstars.com/usa/miami/startup-weekend/11684",
+    "url_name": "Event Website"
 },
 {
     "shortname": "la",

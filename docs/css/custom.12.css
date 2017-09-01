@@ -44,4 +44,20 @@ section.success, hr.star-light:after, header {
 }
 .intro-text {
 }
+.navbar-custom {
+    border-bottom: 2px solid #1f7fa9;
+}
+.navbar-custom, footer .footer-below {
+    background: #28a8e0;
+}
+footer .footer-above {
+    background-color: #1f7fa9;
+}
+h2, hr.star-primary:after, hr.star-primary {
+    color: #28a8e0;
+    border-color: #28a8e0;
+}	
+#portfolio h2 {
+    color: white;
+}
 
