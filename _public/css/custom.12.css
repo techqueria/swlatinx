@@ -61,3 +61,14 @@ h2, hr.star-primary:after, hr.star-primary {
     color: white;
 }
 
+a, a:hover, a:focus, a:active, a.active {
+    color: #337ab7;
+    text-decoration: underline;
+}
+
+footer a, footer  a:hover, footer  a:focus, footer  a:active, footer  a.active {
+	color: white;
+}
+
+
+
