@@ -70,14 +70,14 @@ circleImage: latinxs.png
         <div class="row">
             {{#each data.cities}}
             <div class="col-md-6 col-sm-12 portfolio-item">
-                <a href="#{{#if shortname}}{{shortname}}{{else}}{{name}}{{/if}}" class="portfolio-link" data-toggle="modal">
+                <a href="{{eventbrite_url}}" class="portfolio-link" data-toggle="modal">
                     <div class="caption">
                         <div class="caption-content">
                             <p class="center-text"><strong>{{name}}</strong></p>
                             <i class="fa fa-search-plus fa-3x"></i>
                         </div>
                     </div>
-                    <img src="{{image}}" class="img-responsive" alt="Cabin">
+                    <img src="{{image}}" class="img-responsive" alt="{{name}}">
                 </a>
             </div>
             {{/each}}
