@@ -44,11 +44,10 @@ section.success a {
     border-bottom: 2px solid #2C3E50;
 }
 #maincontent.container > .row {
-    max-width: 80%;
+    width: 90%;
+    max-width: 1024px;
     margin-left: auto;
     margin-right: auto;
-}
-.intro-text {
 }
 .navbar-custom {
     border-bottom: 2px solid #1f7fa9;
