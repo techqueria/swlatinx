@@ -7,7 +7,20 @@
     "image": "/img/portfolio/oakland.png",
     "image-lg": "/img/portfolio/oakland-1.png",
     "url": "http://communities.techstars.com/usa/oakland/startup-weekend/11550",
-    "url_name": "Event Website"
+    "url_name": "Event Website",
+    "eventbrite_url": "https://www.eventbrite.com/e/startup-weekend-latinx-in-tech-oakland-0929-tickets-37018869435"
+},
+{
+    "shortname": "la",
+    "name": "Los Angeles",
+    "description": "We're making this startup weekend the biggest in history. We’re launching 50 Latinx led ventures... in 54 hours... in 5 cities!!! We’re bringing 500 Latinxs and allies together for 54 hours in Oakland, LA, Chicago, Miami and New York to ideate and design solutions to the problems affecting the Latinx community.",
+    "location_name": "Indie Desk",
+    "location_url": "https://www.indiedesk.com/",
+    "image": "/img/portfolio/la.png",
+    "image-lg": "/img/portfolio/la-1.png",
+    "url": "http://communities.techstars.com/usa/los-angeles/startup-weekend/11568",
+    "url_name": "Event Website",
+    "eventbrite_url": "https://www.eventbrite.com/e/startup-weekend-los-angeles-tickets-37018728012"
 },
 {
     "shortname": "chicago",
@@ -18,7 +31,8 @@
     "image": "/img/portfolio/chicago.png",
     "image-lg": "/img/portfolio/chicago-1.png",
     "url": "http://communities.techstars.com/usa/chicago/startup-weekend/11594",
-    "url_name": "Event Website"
+    "url_name": "Event Website",
+    "eventbrite_url": "https://www.eventbrite.com/e/startup-weekend-latinx-chicago-0917-tickets-37108510554"
 },
 {
     "shortname": "nyc",
@@ -30,28 +44,19 @@
     "image": "/img/portfolio/nyc.png",
     "image-lg": "/img/portfolio/nyc-1.png",
     "url": "http://communities.techstars.com/usa/nyc/startup-weekend/11541",
-    "url_name": "Event Website"
+    "url_name": "Event Website",
+    "eventbrite_url": "https://www.eventbrite.com/e/startup-weekend-latinx-in-tech-new-york-tickets-36790161363"
 },
 {
     "shortname": "miami",
     "name": "Miami",
     "description": "We're making this startup weekend the biggest in history. We’re launching 50 Latinx led ventures... in 54 hours... in 5 cities!!! We’re bringing 500 Latinxs and allies together for 54 hours in Oakland, LA, Chicago, Miami and New York to ideate and design solutions to the problems affecting the Latinx community.",
-    "location_name": "",
-    "location_url": "",
+    "location_name": "Building.co",
+    "location_url": "http://building.co/",
     "image": "/img/portfolio/miami.png",
     "image-lg": "/img/portfolio/miami-1.png",
-    "url": "#",
-    "url_name": "Eventbrite"
-},
-{
-    "shortname": "la",
-    "name": "Los Angeles",
-    "description": "We're making this startup weekend the biggest in history. We’re launching 50 Latinx led ventures... in 54 hours... in 5 cities!!! We’re bringing 500 Latinxs and allies together for 54 hours in Oakland, LA, Chicago, Miami and New York to ideate and design solutions to the problems affecting the Latinx community.",
-    "location_name": "Indie Desk",
-    "location_url": "https://www.indiedesk.com/",
-    "image": "/img/portfolio/la.png",
-    "image-lg": "/img/portfolio/la-1.png",
-    "url": "http://communities.techstars.com/usa/los-angeles/startup-weekend/11568",
-    "url_name": "Event Website"
+    "url": "http://communities.techstars.com/usa/miami/startup-weekend/11684",
+    "url_name": "Event Website",
+    "eventbrite_url": "https://www.eventbrite.com/e/startup-weekend-latinx-miami-0917-tickets-37323997080"
 }
 ]
