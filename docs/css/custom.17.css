@@ -75,5 +75,7 @@ footer a, footer  a:hover, footer  a:focus, footer  a:active, footer  a.active {
 	color: white;
 }
 
-
-
+#partners img {
+    max-width: 100%;
+    max-height: 140px;
+}
